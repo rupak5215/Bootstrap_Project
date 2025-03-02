@@ -21,11 +21,6 @@ body{
     background: rgb(0, 21, 61)
 }
 
-/* .card-list {
-    display: flex;
-    justify-items: flex-start;
-} */
-
 .card-list .card-item {
     color: #fff;
     width: 400px;
@@ -39,7 +34,6 @@ body{
     backdrop-filter: blur(30px);
     background: rgba(255, 255,255, 0.3);
     border: 1px, solid, rgbs(255, 255, 255, 0.5);
-
 }
 
 .card-list .card-item .user-image{
