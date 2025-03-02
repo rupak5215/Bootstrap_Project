@@ -54,6 +54,7 @@ transform: scale(1.1);
     color: #e3e3e3;
     font-weight: 500;
     margin: 5px 0 40px;
+    display: flex;
 }
 
 .card-list .card-item .messege-button{
